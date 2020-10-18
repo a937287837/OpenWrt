@@ -15,3 +15,6 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+#添加自定义软件源
+git clone https://github.com/kenzok8/openwrt-packages
